@@ -1,0 +1,16 @@
+[
+   {
+     "name": "Mutodorian",
+     "unitType": "Ranged",
+     "uniqueTO": "Mutodor",
+     "replaces": "Machin Gun",
+     "muvement": 5,
+     "strength": 110,
+     "rangedStrength": 46,
+     "range": 5,
+     "cost": 400,
+     "requiredTech": "Balistics",
+     "requiredResource": "Uranium",
+     "promotions": ["Logistics","Accuracy I"],
+                                             }
+                                                 ]
