@@ -1,0 +1,26 @@
+[
+ {
+    "name": "Mutidor",
+    "leaderName": "Agnal",
+    "objective": ["Mutodorium"],
+    "startBias": ["Snow"],
+    "preferredVictoryType": "Scientific",
+
+     "startIntoPart1": "Hello",
+
+     "declaringWar": "Oh no it is me!",
+
+      "atacked": "Verry vell",
+
+      "introduction": "...",
+
+       "neutralHello": "Hi",
+      "hateHello": "fuck off",
+      "afterPeace": "Verry vel",
+
+       "outerColor":[90,10,0]
+       "innerColor":[241, 157,0]
+       "unique": "No",
+       "cities": ["Avlaga","Nubar","Gid","Nagidi","Rakar","Sans","Sansacia","Silerland",]
+        }
+             ]
